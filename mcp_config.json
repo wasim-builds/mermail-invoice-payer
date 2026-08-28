@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mermail": {
+      "command": "npx",
+      "args": ["-y", "@mermail/mcp-server"]
+    }
+  }
+}
